@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MohammadAtiqulIslam/ Personal Webpage"
+title                    : "Mohammad Atiqul Islam"
 title_separator          : "-"
 name                     : &name "Mohammad Atiqul Islam"
-description              : &description "personal description"
+description              : &description "Assistant Professor, Computer Science and Engineering, \nUniversity of Texas Arlington"
 url                      : https://MdAtiqIslam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MdAtiqIslam/MdAtiqIslam.github.io"
@@ -83,9 +83,9 @@ author:
   name             : "Mohammad Atiqul Islam"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Computer Science and Engineering, \n University of Texas Arlington"
-  location         : "Location"
+  location         : "Arlington, Texas 76019"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rxKWd1cAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -99,14 +99,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mohammad-atiqul-islam-11398654/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
