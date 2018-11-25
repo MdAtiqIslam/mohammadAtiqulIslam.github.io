@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Mohammad Atiqul Islam"
   avatar           : "profile.png"
-  bio              : |"Assistant Professor,
+  bio              : | Assistant Professor,
                       Computer Science and Engineering, 
-                      University of Texas Arlington"
+                      University of Texas Arlington
   location         : "Arlington, Texas 76019"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=rxKWd1cAAAAJ&hl=en"
